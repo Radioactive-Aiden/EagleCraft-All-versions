@@ -9,6 +9,8 @@ network settings
 and add this ass the relay
 
 wss://eaglerrelay.Glitch.me/,join
+wss://relay.webmc.xyz
+wss://webmc.colbster937.dev/relay
 
 this might not work on all the versions but yes they do work and heres some severs you can use
 
